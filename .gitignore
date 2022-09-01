@@ -2,3 +2,7 @@
 venv/
 #ignore project settings
 .idea/
+#ignore database
+/ask/db.sqlite3
+#ignore pycache
+**/__pycache__
