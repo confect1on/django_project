@@ -1,0 +1,4 @@
+#ignore virtual enviroment
+venv/
+#ignore project settings
+.idea/
